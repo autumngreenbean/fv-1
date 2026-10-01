@@ -10,6 +10,7 @@ Create a modular effects pedal board that can be digitally re-programmed for con
     - Smaller hole for bottom jack -> toggle SWITCH
     - Extend ledge reaching to the top nuts
     - USB Type-B hole 0.5" from top right nut (from inside perspective)
+    - Get rid of the middle hole below potentiometers 
 5. (TODO) WIRE toggle switch
 6. (DONE) Wire 5x potentiometers
 7. (TODO) Wire stomp switch
