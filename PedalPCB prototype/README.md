@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a modular effects pedal board that can be re-programmed contextually.
+Create a modular effects pedal board that can be digitally re-programmed for contextual usage.
 
 ## Checkpoints
 1. (DONE) 3D print a prototype enclosure
