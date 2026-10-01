@@ -27,4 +27,6 @@ Parts used to assemble the board are shown in the above documentation link, but 
 ## Enclosure
 The enclosure is a 5-potentiometer variation, printed out of black PLA. The print files can be found in .stl format [here](https://www.thingiverse.com/thing:4634049).
 
+1. (TODO) Upload final modified .step file of enclosure here 
+
 
