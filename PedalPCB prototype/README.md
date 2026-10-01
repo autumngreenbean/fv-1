@@ -6,16 +6,20 @@ Create a modular effects pedal board that can be digitally re-programmed for con
 
 ## Checkpoints
 1. (DONE) 3D print a prototype enclosure
-2. (TODO) 3D print third prototype enclosure
+2. (DONE) 3D print third prototype enclosure
     - Smaller hole for bottom jack -> toggle SWITCH
     - Extend ledge reaching to the top nuts
     - USB Type-B hole 0.5" from top right nut (from inside perspective)
     - Get rid of the middle hole below potentiometers 
-5. (TODO) WIRE toggle switch
-6. (DONE) Wire 5x potentiometers
-7. (TODO) Wire stomp switch
-8. (TODO) Wire audio jacks
-9. (TODO) Shield prototype enclosure with aluminum
+    - Add hole for 9V power
+3. (DONE) Wire 5x potentiometers
+4. (DONE) Wire stomp switch
+5. (IN-PROGRESS) Wire audio jacks
+6. (TODO) Shield prototype enclosure with aluminum
+7. (TODO) WIRE toggle switch
+8. (TODO) Configure & test 9V power 
+9. (TODO) Power & connect to FV-1 chip
+
 
 
 # Hardware Assembly
