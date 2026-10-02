@@ -27,7 +27,7 @@ Create a modular effects pedal board that can be digitally re-programmed for con
 
 [PedalPCB's (v01.11.20 FV-1 Development Board)](https://docs.pedalpcb.com/project/FV1-Dev.pdf) is discontinued. The documentation here shows a full schematic and wiring guide for the version used in this project. 
 
-Parts used to assemble the board are shown in the above documentation link, but is also available in '/PedalPCB prototype/Components.ods'
+Parts used to assemble the board are shown in the above documentation link, but is also available in `/PedalPCB prototype/Components.ods`
 
 ## Enclosure
 The enclosure is a 5-potentiometer variation, printed out of black PLA. The print files can be found in .stl format [here](https://www.thingiverse.com/thing:4634049).
