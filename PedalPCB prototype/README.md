@@ -6,7 +6,7 @@ Hi, welcome to the active repository for updating the status of the **FV-1 effec
 
 The objective is to create a modular effects pedal board that can be digitally re-programmed for a wide range of uses and experimentation.
 
-
+ ![alt text](https://github.com/autumngreenbean/fv-1/blob/main/PedalPCB%20prototype/Images/Patient%20Zero%20Top-Down.JPG?raw=true) ![alt text](https://github.com/autumngreenbean/fv-1/blob/main/PedalPCB%20prototype/Images/Patient%20Zero%20Askew.JPG?raw=true) ![alt text](https://github.com/autumngreenbean/fv-1/blob/main/PedalPCB%20prototype/Images/Patient%20Zero%20Internal.JPG?raw=true)
 
 ## Status
 
