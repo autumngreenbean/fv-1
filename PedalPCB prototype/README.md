@@ -26,14 +26,16 @@ The enclosure is a 5-potentiometer variation, printed out of black PLA. The prin
 
 ## Checkpoints (TODO)
 
-0. Modify 3D print enclosure prototype
+0. Modify 3D print enclosure prototype, install components
     - Accomodate power jack diameter
-    - 
-1. Modify audio jacks
+    - Re-position USB-B port lower
+    - Ledge only for the usb port for now
+    - Note that board is nearly flush with the top edge (looking down), current artificial ledge insert is useless!
+1. Modify audio jack prongs to conserve space
 2. Shield prototype enclosure with aluminum
-3. WIRE toggle switch
+3. Wire toggle switch
 4. Configure & test 9V power 
-5. Power & connect to FV-1 chip
+5. Power & connect FV-1 chip
 
 ### Checkpoints (DONE)
 
