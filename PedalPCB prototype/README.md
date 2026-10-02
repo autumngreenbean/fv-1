@@ -50,3 +50,5 @@ The enclosure is a 5-potentiometer variation, printed out of black PLA. The prin
 4. Populate two development boards
 5. Source components
 
+last updated 2026-10-02
+
