@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Hi, welcome to the active repositor of the **FV-1 effects pedal project** by autumn, ethel, and drew.
+Hi, welcome to the active repository of the **FV-1 effects pedal project** by autumn, ethel, and drew.
 
 The objective is to create a modular effects pedal board that can be digitally re-programmed for a wide range of uses and experimentation.
 
