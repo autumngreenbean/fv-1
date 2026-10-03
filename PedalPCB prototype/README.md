@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Hi, welcome to the active repository for updating the status of the **FV-1 effects pedal project** by autumn, ethel, and drew.
+Hi, welcome to the active repositor of the **FV-1 effects pedal project** by autumn, ethel, and drew.
 
 The objective is to create a modular effects pedal board that can be digitally re-programmed for a wide range of uses and experimentation.
 
@@ -10,9 +10,7 @@ The objective is to create a modular effects pedal board that can be digitally r
 
 ## Status
 
-The project is still in the stage of assembly and testing. The board and electronic components are completed and wired, and the next step verify the connections, with the endpoint being to interface with the **FV-1** chip. 
-
-A thorough continuity test is needed, and preparations to program the chip will begin shortly!
+The project has arrived in the stage of assembly and testing. The board and electronic components are completed and wired (2026-10-01). Once the connections are tested, the endpoint to interface with the **FV-1** chip is near. Hehe!
 
 # Hardware Assembly
 ## FV-1 Development board
